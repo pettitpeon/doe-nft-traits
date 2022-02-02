@@ -1,0 +1,210 @@
+{
+    "background": {
+        "total_count": 9970,
+        "values_count": 5,
+        "values": {
+            "Glowing green": 1,
+            "Zombie background": 1,
+            "brown": 3219,
+            "cyan": 3324,
+            "green": 3425
+        }
+    },
+    "Doge": {
+        "total_count": 9970,
+        "values_count": 4,
+        "values": {
+            "Alien doge": 31,
+            "Zombie doge": 71,
+            "Female doge": 4048,
+            "Male doge": 5820
+        }
+    },
+    "Fur": {
+        "total_count": 9866,
+        "values_count": 4,
+        "values": {
+            "Tiger": 633,
+            "Cyan": 1714,
+            "Pink": 1875,
+            "None": 5644
+        }
+    },
+    "Eyes": {
+        "total_count": 9968,
+        "values_count": 6,
+        "values": {
+            "Alien": 30,
+            "Demon": 369,
+            "Bored": 991,
+            "Sleepy": 1843,
+            "Smiley": 2602,
+            "Neutral": 4133
+        }
+    },
+    "Eyewear": {
+        "total_count": 9966,
+        "values_count": 14,
+        "values": {
+            "Pirate eye patch": 32,
+            "Heart": 70,
+            "luxury glasses": 119,
+            "Circle Glasses": 137,
+            "Thug Life Glasses": 263,
+            "Cyber glasses": 331,
+            "polarized": 667,
+            "3D glasses": 843,
+            "Retro": 999,
+            "Sunglasses": 1009,
+            "Futuristic": 1060,
+            "Teashades": 1117,
+            "Cyclops glasses": 1396,
+            "None": 1923
+        }
+    },
+    "Hats": {
+        "total_count": 9966,
+        "values_count": 42,
+        "values": {
+            "Black queen crown": 12,
+            "Black king crown": 13,
+            "Gold egyptian crown": 17,
+            "Queen crown": 23,
+            "King crown": 28,
+            "Silver egyptian crown": 29,
+            "Clown hair": 33,
+            "Silver king crown": 34,
+            "Legendary crown": 34,
+            "Rasta hat": 37,
+            "Santa hat ": 41,
+            "Trapper hat": 43,
+            "Pirate": 45,
+            "Magician hat": 46,
+            "Pompadour hair": 49,
+            "Demon horn": 65,
+            "Fez": 69,
+            "Admiral": 76,
+            "Halo": 77,
+            "congrats hat": 87,
+            "Joker hat": 95,
+            "Nurse": 124,
+            "Headband Bow tie": 166,
+            "Knight helmet": 171,
+            "Bucket": 341,
+            "Flowers headband ": 370,
+            "Miner helmet": 375,
+            "sailor hat": 378,
+            "Beanie": 380,
+            "Baseball cap": 386,
+            "Afro hair": 403,
+            "Helmet": 407,
+            "Beret": 426,
+            "cavalier hat": 430,
+            "Sakkat": 438,
+            "Popstair hair": 445,
+            "Panama hat": 511,
+            "Winter beanie": 545,
+            "Headband": 620,
+            "Hohawk hair": 662,
+            "None": 713,
+            "Wizard hat": 722
+        }
+    },
+    "Clothing": {
+        "total_count": 9966,
+        "values_count": 15,
+        "values": {
+            "Golden Jewellery  necklace": 1,
+            "Demon coat": 35,
+            "Dog collar": 121,
+            "Royal cape": 210,
+            "Ruff collar": 211,
+            "Bow tie clown ": 276,
+            "Flowers necklace": 346,
+            "necklace": 393,
+            "Sphere necklace": 464,
+            "Bow tie clown": 562,
+            "Face scarf": 991,
+            "Scarf": 1099,
+            "Bow tie": 1148,
+            "Tie": 1603,
+            "None": 2506
+        }
+    },
+    "Mouth": {
+        "total_count": 9966,
+        "values_count": 27,
+        "values": {
+            "Dali moustache+Golden pipe": 24,
+            "Handlebar moustache+Golden pipe": 29,
+            "Chevron moustache+Golden pipe": 31,
+            "Bone ": 50,
+            "Demon mask ": 54,
+            "Clown nose+Golden pipe": 64,
+            "Golden pipe": 76,
+            "Handlebar moustache+Pipe": 79,
+            "Dali moustache+Pipe": 85,
+            "Legendary mask": 93,
+            "Chevron moustache+Pipe": 97,
+            "Vamprire teeh": 122,
+            "Clown nose+Cigar": 143,
+            "Clown nose+Pipe": 189,
+            "Handlebar moustache": 287,
+            "Stick": 289,
+            "Chevron moustache": 297,
+            "Clown nose+tongue": 326,
+            "Unshaved": 474,
+            "Pipe": 503,
+            "Cigar": 506,
+            "Dali moustache": 571,
+            "Clown nose": 594,
+            "Tongue": 639,
+            "Tape": 1111,
+            "Mask": 1228,
+            "None": 2005
+        }
+    },
+    "Identity": {
+        "total_count": 30,
+        "values_count": 1,
+        "values": {
+            "The Dogfather": 30
+        }
+    },
+    "Edition": {
+        "total_count": 30,
+        "values_count": 30,
+        "values": {
+            "22": 1,
+            "6": 1,
+            "5": 1,
+            "23": 1,
+            "8": 1,
+            "11": 1,
+            "12": 1,
+            "2": 1,
+            "26": 1,
+            "10": 1,
+            "18": 1,
+            "27": 1,
+            "29": 1,
+            "4": 1,
+            "15": 1,
+            "21": 1,
+            "30": 1,
+            "16": 1,
+            "24": 1,
+            "25": 1,
+            "13": 1,
+            "19": 1,
+            "28": 1,
+            "3": 1,
+            "9": 1,
+            "17": 1,
+            "20": 1,
+            "7": 1,
+            "1": 1,
+            "14": 1
+        }
+    }
+}
